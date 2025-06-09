@@ -1,0 +1,13 @@
+tenancy_ocid        = "ocid1.tenancy.oc1..aaaaaaaasiigfpcj7o4xn6o5r725u5zofb5tfmfb57vzqqsirlnkhg6lpiva"
+user_ocid           = "ocid1.user.oc1..aaaaaaaakmvqxdblzf2z7xnmau7guxlcbs6iuloyy3nq2ob2x2aa5i7gn6tq"
+fingerprint         = "bd:3b:62:6d:b3:a9:f6:16:b8:97:2c:8b:4e:ab:d0:01"
+region              = "us-ashburn-1"
+private_key_path    = "/var/lib/jenkins/.oci/Optimuskey_pkcs1.pem"
+
+compartment_ocid        = "ocid1.tenancy.oc1..aaaaaaaasiigfpcj7o4xn6o5r725u5zofb5tfmfb57vzqqsirlnkhg6lpiva"
+instance_display_name   = "TF_test"
+source_ocid             = "ocid1.image.oc1.iad.aaaaaaaaq3hqvuzpjkyz2bqb767xskv56lcunnypdrardr7mnsmk2mjlnbta"
+subnet_ocid             = "ocid1.subnet.oc1.iad.aaaaaaaaxeyq7yugxchxhh74vfl6tmfojvyuqpdy567svjpw3xh3ex6d2mwa"
+public_ip               = "EPHEMERAL"
+ssh_public_key_path     = "/var/lib/jenkins/.oci/Optimus1_public.pem"
+shape                   = "VM.Standard.E2.1.Micro"
