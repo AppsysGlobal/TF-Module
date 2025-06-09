@@ -25,7 +25,7 @@ module "instance" {
   source_ocid                = var.source_ocid
   subnet_ocids               = [var.subnet_ocid] # changed to list
   public_ip                  = var.public_ip
-  ssh_public_keys = file(var.ssh_public_key_path)
+  ssh_public_keys = [file(var.ssh_public_key_path)]
   shape                      = var.shape
   block_storage_sizes_in_gbs = [50]
 }
