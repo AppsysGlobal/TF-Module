@@ -6,7 +6,7 @@ private_key_path    = "/var/lib/jenkins/.oci/Optimuskey_pkcs1.pem"
 
 compartment_ocid        = "ocid1.tenancy.oc1..aaaaaaaasiigfpcj7o4xn6o5r725u5zofb5tfmfb57vzqqsirlnkhg6lpiva"
 instance_display_name   = "TF_test"
-source_ocid             = "ocid1.image.oc1.iad.aaaaaaaaq3hqvuzpjkyz2bqb767xskv56lcunnypdrardr7mnsmk2mjlnbta"
+source_ocid             = "ocid1.image.oc1.iad.aaaaaaaaw65jff6tnjbr7x2c2lr3qlf46l2sthpuidxaurmar2oxjmqry3qa"
 subnet_ocid             = "ocid1.subnet.oc1.iad.aaaaaaaaxeyq7yugxchxhh74vfl6tmfojvyuqpdy567svjpw3xh3ex6d2mwa"
 public_ip               = "EPHEMERAL"
 ssh_public_key_path =  "/var/lib/jenkins/.oci/TFmodulekey.pub"
